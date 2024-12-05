@@ -2,7 +2,7 @@
 title: Sustainable Soft Robotic Fabrication
 email: christine.braganza@bristol.ac.uk
 url: https://cbraganz.github.io
-description: "Find out more about !!"
+description: "Find out more about materials, fabrication methods and resources below!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: RicePaperRapidFabrication
+footer: SustainableSoftRoboticFabrication
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
